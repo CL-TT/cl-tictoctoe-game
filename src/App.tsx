@@ -1,10 +1,11 @@
 import React from 'react';
 import './App.css';
+import GameComp from './components/GameComp'
 
 function App() {
   return (
     <div className="App">
-      哈哈我hi就结束
+      <GameComp />
     </div>
   );
 }

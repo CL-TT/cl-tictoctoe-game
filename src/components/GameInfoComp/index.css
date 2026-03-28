@@ -1,0 +1,35 @@
+.gameinfo{
+  margin-top: 50px;
+}
+
+.step-info, .win-info{
+  font-size: 24px;
+}
+
+.step-info.red{
+  color: red;
+}
+
+.step-info.black{
+  color: black;
+}
+
+.win-info {
+  width: 180px;
+  margin: 0 auto;
+  padding: 10px 0;
+  border-radius: 5px;
+  border: 2px solid;
+}
+
+.win-info.red{
+  color: red;
+}
+
+.win-info.black{
+  color: black;
+}
+
+.win-info.equal{
+  color: #333;
+}
